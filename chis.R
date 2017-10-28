@@ -1,5 +1,5 @@
 # load dataset
-data_dir <- "/Users/jeevarehakrishnaraj/Desktop/Springboard/Project -4/CHIS/CHIS EXERCISE"
+data_dir <- "~/Desktop/Springboard/Project -4/CHIS/CHIS EXERCISE"
 adult <- read.dta(file.path(data_dir,"ADULT.dta"))
 
 # Explore the dataset with summary and str
